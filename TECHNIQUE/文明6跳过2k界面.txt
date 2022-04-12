@@ -1,0 +1,1 @@
+"D:\GAME\steam\steamapps\common\Sid Meier's Civilization VI\Base\Binaries\Win64Steam\CivilizationVI.exe" %command%
